@@ -2,8 +2,8 @@
 
 ## main 브랜치 파일을 작업 후 prac 브랜치로 푸시 하는 방법
 ### 1. 로컬 레포지 토리 클론
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone \<your-repository-url>
+cd \<your-repository-directory>
 
 ### 2. 브랜치 확인 및 main 브랜치로 전환
 git checkout main
