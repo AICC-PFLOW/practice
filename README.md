@@ -22,3 +22,14 @@ git checkout prac
 
 ### 7. 변경사항 푸시
 git push origin prac
+
+## GitHub에서 main 브랜치에 있는 파일을 prac 브랜치로 가져오는 방법
+### 1. 로컬 레포지토리 클론
+git clone \<your-repository-url>    
+cd \<your-repository-directory>
+
+### 2. prac 브랜치로 전환
+git checkout prac
+
+### 3. main 브랜치의 변경 사항을 prac 브랜치로 병합
+git pull origin main
