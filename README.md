@@ -14,7 +14,7 @@ git pull origin main
 ### 4. 작업 진행
 
 ### 5. 변경 사항 커밋
-git add .
+git add .    
 git commit -m "작업 내용에 대한 설명"
 
 ### 6. prac 브랜치로 전환
